@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "N41b3xihVqSnrwz1dle/H0Bbp27e4i/M+wuuVKx4pnhTDx9DCsn652/faqoMBvYPEXjyZXS9A7ErsNre02F1Qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lukas\\source\\repos\\Question 2\\Question 2\\Question 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukas\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.7\\microsoft.netcore.app.runtime.win-x86.3.1.7.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.7\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.7.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.7\\microsoft.aspnetcore.app.runtime.win-x86.3.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}
